@@ -1,16 +1,15 @@
-## Hi there 👋
+# DuckSecurity
 
-<!--
-**DuckSecurity/DuckSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity, OSINT, and digital investigations.
 
-Here are some ideas to get you started:
+I'm interested in how online threats work, how to investigate suspicious activity, and how technical evidence can help explain what happened. I'm building my knowledge and practical experience in these areas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- OSINT and threat intelligence
+- Phishing, scams, and malicious infrastructure
+- Digital forensics and incident response
+- Web security and vulnerability research
+- Scripting and security tooling
+
+I'll use this profile to share projects, research, and write-ups as I develop them.
+
