@@ -15,6 +15,6 @@ I'll use this profile to share projects, research, and write-ups as I develop th
 
 "So you use AI for this?"
 
-Yes. But I don't just prompt and trust the output. I verify findings, cross-check evidence, and treat AI the same way I'd treat any unverified source: useful, but not authoritative.
+Yes. But I don't just prompt and trust the output. I verify findings, cross-check evidence, and treat AI the same way I'd treat any unverified source 
 
 AI speeds up research and tooling. The investigation, the judgment, and the accountability are still mine.
